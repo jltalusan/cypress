@@ -12,7 +12,7 @@ brew install node
 npm install cypress --save-dev
 ```
 
-### Directory structure
+## Directory structure
 
 ```sh
 ├── downloads
@@ -28,7 +28,7 @@ npm install cypress --save-dev
 ├── Jenkinsfile
 ```
 
-### Running the test
+## Running the test
 
 ### Go to 
 
