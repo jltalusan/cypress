@@ -1,4 +1,4 @@
-# This repository has been created for Planit Testing's Technical Assessment
+# Cypress Automation Demo
 
 ## Environment Setup
 - Install Node JS
